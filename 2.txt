@@ -1,1 +1,4 @@
 git 命令
+
+git add . 
+git commit -m "测试提交"    提交本地git库
